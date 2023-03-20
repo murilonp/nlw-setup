@@ -17,4 +17,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 #
 
-- ### [Link do projeto](https://nlw-setup-kappa.vercel.app)
+- ### [Link do projeto](https://nlw-setup-murilo.vercel.app)
